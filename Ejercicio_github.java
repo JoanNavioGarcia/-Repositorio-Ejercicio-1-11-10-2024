@@ -44,7 +44,7 @@ public class Main {
         else{
             System.out.println("Error");
         }
-        System.out.println("Mu buenos dias")
+        System.out.println("Que su dice la gente")
 
     }
 }
